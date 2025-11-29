@@ -1,4 +1,4 @@
----
+⁸---
 slug: /flutterflow-ui/resource-hierarchy
 title: Resource Hierarchy Overview
 description: Explore the Resource Hierarchy Overview to understand the correlation between traditional Flutter app components and their equivalents in FlutterFlow.
